@@ -1,0 +1,17 @@
+[
+    {
+        "id_producto": "SOL-001",
+        "nombre": "EcoPanel Ultra 400W",
+        "precio": "$350.00",
+        "stock": 15,
+        "tipo_producto": "Panel Solar Fotovoltaico",
+        "potencia_watts": 400,
+        "eficiencia_porcentaje": "21.5%"
+    },
+    {
+        "id_producto": "BAT-001",
+        "nombre": "Batería Li-Ion 5kWh",
+        "precio": "$1200.00",
+        "stock": 4
+    }
+]
